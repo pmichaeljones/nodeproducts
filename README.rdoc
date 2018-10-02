@@ -1,0 +1,1 @@
+Here we're going to learn the inner workings of Node.js and MongoDB. Time to level up my programmer skills.
